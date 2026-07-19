@@ -41,3 +41,12 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 ## Dashboard Preview
 
 Screenshots will be added here.
+## Dashboard Preview
+
+### Executive Summary
+
+![Executive Summary](photos/executive-summary.png)
+
+### Customer Product Analysis
+
+![Customer Product Analysis](photos/customer-product-analysis.png)
