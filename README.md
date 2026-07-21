@@ -45,7 +45,7 @@ Screenshots will be added here.
 
 ### Executive Summary
 
-![Executive Summary](https://github.com/ismayil-data-analytics/sales-performance-dashboard/blob/main/executive-summary.png)
+![Executive Summary](https://github.com/ismayil-data-analytics/sales-performance-dashboard/blob/main/PowerBI_Dashboard_Overview.png)
 
 ### Customer Product Analysis
 
