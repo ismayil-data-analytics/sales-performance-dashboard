@@ -49,4 +49,4 @@ Screenshots will be added here.
 
 ### Customer Product Analysis
 
-![Customer Product Analysis](https://github.com/ismayil-data-analytics/sales-performance-dashboard/blob/main/customer-product-analysis.png)
+![Customer Product Analysis](https://github.com/ismayil-data-analytics/sales-performance-dashboard/blob/main/PowerBI_Customer_Product_Analysis.png)
